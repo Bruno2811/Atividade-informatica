@@ -12,5 +12,5 @@ Realizado um slide no powerpoint para uma aprresentação pessoal.
 
 ## Usando fórmulas e dados abertos. Aula excel 1
 
-Criar uma planilha filtrndo desenvolvendo abilidades no excel, usando as formulas:  SOMA, CONT.SE, SOMASE, SE
+Criar uma planilha filtrndo desenvolvendo abilidades no excel, criando graficos e usando as formulas:  SOMA, CONT.SE, SOMASE, SE
 
