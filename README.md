@@ -72,4 +72,4 @@ Foram criadas as seguintes perguntas:
 
 Para desenvolver a planilha com filtros e formulas.
 
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B78B7DF9D-26BA-435B-9AD5-5F692A85E802%7D&file=f%25u00f3rmulas%20e%20dados%20abertos.xlsx&action=default&mobileredirect=true
+https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos.xlsx
