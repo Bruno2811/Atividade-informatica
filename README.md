@@ -21,7 +21,7 @@ Realizado um slide no powerpoint para uma aprresentação pessoal.
 
 
 
-## 2.1-Usando fórmulas e dados abertos. Aula excel 1
+## 2.1-Aula excel 1: Usando fórmulas e dados abertos. 
 
 Criar uma planilha filtrndo e desenvolvendo abilidades no excel, criando graficos e usando as formulas:  SOMA, CONT.SE, SOMASE, SE
 
@@ -30,7 +30,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_
 
 
 
-## 2.2-Planilhas: fórmulas e dados abertos. Aula excel 2
+## 2.2-Aula excel 2: Planilhas: fórmulas e dados abertos. 
 
 -Atividade de excel para desenvolver as formulas e a criaçaõ de graficos, seguindo as perguntas propostas pela procfessora:
 
