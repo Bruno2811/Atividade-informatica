@@ -55,6 +55,8 @@ Se csv, converta-o para o formato xlsx.
 6. Apresentaçao E2 em 19/09
 
 
+
+
 Foram criadas as seguintes perguntas:
 
 1-Qual é a contagem total de escolas em cada município?
