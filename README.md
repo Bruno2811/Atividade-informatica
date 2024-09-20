@@ -12,7 +12,7 @@
 
 
 
-## Primeira tarefa : apresentação pessoal
+## 1-Primeira tarefa : apresentação pessoal
 
 Realizado um slide no powerpoint para uma aprresentação pessoal.
 
@@ -21,7 +21,7 @@ Realizado um slide no powerpoint para uma aprresentação pessoal.
 
 
 
-## Usando fórmulas e dados abertos. Aula excel 1
+## 2.1-Usando fórmulas e dados abertos. Aula excel 1
 
 Criar uma planilha filtrndo e desenvolvendo abilidades no excel, criando graficos e usando as formulas:  SOMA, CONT.SE, SOMASE, SE
 
@@ -30,4 +30,4 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_
 
 
 
-## Planilhas: fórmulas e dados abertos. Aula excl 2
+## 2.2-Planilhas: fórmulas e dados abertos. Aula excl 2
