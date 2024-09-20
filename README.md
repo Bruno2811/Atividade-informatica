@@ -35,13 +35,14 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_
 -Atividade de excel para desenvolver as formulas e a criaçaõ de graficos, seguindo as perguntas propostas pela procfessora:
 
 1. Acessar UM dos repositórios a seguir, que contenha  dados abertos
+
 https://dados.gov.br/home
 https://www.governoaberto.sp.gov.br/
 https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
 https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/
 
 ou outro de sua preferência e fazer o download de um  arquivo csv ou Excel.
-Se csv, converta-o para o formato xlsx
+Se csv, converta-o para o formato xlsx.
 
 2. Elabore  cinco perguntas sobre os dados coletados.
 
