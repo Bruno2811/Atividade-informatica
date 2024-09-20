@@ -32,7 +32,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/bruno_moraes26_fatec_sp_gov_
 
 ## 2.2-Aula excel 2: Planilhas: fórmulas e dados abertos. 
 
--Atividade de excel para desenvolver as formulas e a criaçaõ de graficos, seguindo as perguntas propostas pela procfessora:
+Atividade de excel para desenvolver as formulas e a criaçaõ de graficos, seguindo as perguntas propostas pela procfessora:
 
 1. Acessar UM dos repositórios a seguir, que contenha  dados abertos
 
