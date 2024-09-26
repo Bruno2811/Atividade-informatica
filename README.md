@@ -72,4 +72,7 @@ Foram criadas as seguintes perguntas:
 
 Para desenvolver a planilha com filtros e formulas.
 
+
+Informações passadas para a seguinte pleniha:
+
 https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos.xlsx
