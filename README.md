@@ -59,15 +59,18 @@ Se csv, converta-o para o formato xlsx.
 
 Foram criadas as seguintes perguntas:
 
-1-Qual é a contagem total de escolas em cada município?
+1. Qual é a contagem total de escolas em cada município?
 
-2- criei um gráfico que represente a contagem de escola em cada município do maior para o menor
+2. Criei um gráfico que represente a contagem de escola em cada município do maior para o menor
 
-3- Utilize a função de contagem para agrupar as escolas por município. Qual a média de alunos por município?
+3. Utilize a função de contagem para agrupar as escolas por município. Qual a média de alunos por município?
 
-4- Calcule a capacidade de alunos por escola.
+4. Calcule a capacidade de alunos por escola.
 
-5- crie um gráfico classificando escola com classes especias da escola com mais quantidade para a q tem menos quantidade
+5. Crie um gráfico classificando escola com classes especias da escola com mais quantidade para a q tem menos quantidade
+
+
+
 
 
 
