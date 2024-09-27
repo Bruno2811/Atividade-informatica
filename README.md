@@ -70,6 +70,8 @@ Foram criadas as seguintes perguntas:
 5- crie um gráfico classificando escola com classes especias da escola com mais quantidade para a q tem menos quantidade
 
 
+
+
 Para desenvolver a planilha com filtros e formulas. Usando as formulas: CONT.SE; SOMASE; SOMA.
 
 
