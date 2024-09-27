@@ -72,7 +72,7 @@ Foram criadas as seguintes perguntas:
 
 
 
-Para desenvolver a planilha com filtros e formulas. Usando as formulas: CONT.SE; SOMASE; SOMA.
+Para desenvolver uma planilha com filtros e formulas, usando as formulas: CONT.SE; SOMASE; SOMA.
 
 
 Informações passadas para a seguinte pleniha:
