@@ -67,10 +67,10 @@ Foram criadas as seguintes perguntas:
 
 4- Calcule a capacidade de alunos por escola.
 
-5- criei um gráfico classificando escola com classes especias da escola com mais quantidade para a q tem menos quantidade
+5- crie um gráfico classificando escola com classes especias da escola com mais quantidade para a q tem menos quantidade
 
 
-Para desenvolver a planilha com filtros e formulas.
+Para desenvolver a planilha com filtros e formulas. Usando as formulas: CONT.SE; SOMASE; SOMA.
 
 
 Informações passadas para a seguinte pleniha:
