@@ -9,6 +9,7 @@
 
 2.1-2.2: AULAS EXCEL 
 
+3.1-3.4 DESENVOLVIMENTO POWER BI
 
 
 
@@ -78,6 +79,22 @@ Foram criadas as seguintes perguntas:
 Para desenvolver uma planilha com filtros e formulas, usando as formulas: CONT.SE; SOMASE; SOMA.
 
 
-Informações passadas para a seguinte pleniha:
+Informações passadas para a seguinte planilha:
 
 https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos.xlsx
+
+
+
+##3.1 DESENVOLVIMENTO POWER BI 1:
+
+Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de BI foi a seguinte:
+
+1. elaborar um arquivo que contenha DS_PAIS e LINK para a figura da bandeira do país.
+2. fazer o uploading do arquivo construído e do arquivo anexo para o PowerBI.
+3. fazer o modelo dos dois arquivos no PowerBI, relacionando-os pelo DS_PAIS.
+4. fazer a categorização de dados, se necessário.
+5. gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
+
+Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. Foi gerado por mim o seguinte arquivo:
+
+
