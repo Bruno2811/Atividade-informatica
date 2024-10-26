@@ -96,5 +96,5 @@ Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de
 5. gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
 
 Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. Foi gerado por mim o seguinte arquivo:
-
+https://github.com/Bruno2811/Atividade-informatica/blob/main/atividade%201%20power%20bi.pbix
 
