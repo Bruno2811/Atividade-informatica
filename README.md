@@ -85,7 +85,7 @@ https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%2
 
 
 
-##3.1 DESENVOLVIMENTO POWER BI 1:
+## 3.1 DESENVOLVIMENTO POWER BI 1:
 
 Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de BI foi a seguinte:
 
