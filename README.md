@@ -118,6 +118,6 @@ Na atividade proposta pela professora, utilizamos os seguintes dados para realiz
 ![image](https://github.com/user-attachments/assets/7395b563-2ea1-4cd7-8c39-d558af0458a5)
 
 
-
+https://github.com/Bruno2811/Atividade-informatica/blob/main/Bruno%20filiaisDAX.pbix
 
 
