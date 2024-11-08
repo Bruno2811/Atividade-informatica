@@ -99,6 +99,7 @@ Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de
 5. gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
 Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. 
 Foi gerado por mim a seguinte tela para visualizar os paises 
+
 ![Uploading image.png…]()
 
 
