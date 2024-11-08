@@ -15,7 +15,8 @@
 
 ## 1-Primeira tarefa : apresentação pessoal
 
-Realizado um slide no powerpoint para uma aprresentação pessoal.
+
+Nesta atividade em grupo, foi criada uma apresentação de slides para uma apresentação pessoal.
 
 ![image](https://github.com/user-attachments/assets/6dacf737-43de-46a0-84ff-4391a2a0249c)
 
@@ -24,7 +25,8 @@ Realizado um slide no powerpoint para uma aprresentação pessoal.
 
 ## 2.1-Aula excel 1: Usando fórmulas e dados abertos. 
 
-Criar uma planilha filtrndo e desenvolvendo abilidades no excel, criando graficos e usando as formulas:  SOMA, CONT.SE, SOMASE, SE
+
+Criar uma planilha filtrando e desenvolvendo habilidades no Excel, criando gráficos e utilizando as fórmulas: SOMA, CONT.SE, SOMASE e SE.
 
 ![image](https://github.com/user-attachments/assets/ae0c543f-bca2-464b-91ed-236d167f5c54)
 
