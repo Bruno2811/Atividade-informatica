@@ -98,6 +98,17 @@ Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de
 4. fazer a categorização de dados, se necessário.
 5. gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
 
+
+## 3.2
+
+## 3.3 DESENVOLVIMENTO POWER BI 1: Power BI fórmulas DAX e KPI
+
+Na ativadade proposta pela professora utilizamos os seguntes dados para realizar um BI com visibilidade das informações. Gerei o seguinte DashBoard:
+
+![image](https://github.com/user-attachments/assets/7395b563-2ea1-4cd7-8c39-d558af0458a5)
+
+
+
 Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. Foi gerado por mim o seguinte arquivo:
 https://github.com/Bruno2811/Atividade-informatica/blob/main/atividade%201%20power%20bi.pbix
 
