@@ -100,7 +100,8 @@ Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de
 Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. 
 Foi gerado por mim a seguinte tela para visualizar os paises 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/77aedc0c-9d86-4ba9-ab8e-f2baadc1b889)
+
 
 
 ## 3.2
