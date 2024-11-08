@@ -95,7 +95,7 @@ https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%2
 
 
 
-## 3.1 DESENVOLVIMENTO POWER BI 1:
+## 3.1 DESENVOLVIMENTO POWER BI : Paises e Bandeiras 
 
 Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de BI foi a seguinte:
 
@@ -113,7 +113,7 @@ Foi gerado por mim a seguinte tela para visualizar os paises
 
 ## 3.2
 
-## 3.3 DESENVOLVIMENTO POWER BI 1: Power BI fórmulas DAX e KPI
+## 3.3 DESENVOLVIMENTO POWER BI : Power BI fórmulas DAX e KPI
 
 Na atividade proposta pela professora, utilizamos os seguintes dados para realizar um BI com visibilidade das informações. Gerei o seguinte dashboard:
 
@@ -123,3 +123,11 @@ Na atividade proposta pela professora, utilizamos os seguintes dados para realiz
 https://github.com/Bruno2811/Atividade-informatica/blob/main/Bruno%20filiaisDAX.pbix
 
 
+
+
+## 3.4 DESENVOLVIMENTO POWER BI : Power BI, dados abertos, fórmulas DAX, KPI
+
+Na atividade proposta pela professora, desenvolvi um dashboard para indicar metas batidas de cada escola na 
+no estado de São Paulo. 
+
+![image](https://github.com/user-attachments/assets/48e2ad12-2088-4bbe-9158-f5cfcf87b999)
