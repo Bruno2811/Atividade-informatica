@@ -86,6 +86,9 @@ Para desenvolver uma planilha com filtros e formulas, usando as formulas: CONT.S
 
 Informações passadas para a seguinte planilha:
 
+![image](https://github.com/user-attachments/assets/46ee60b7-89b2-43a9-b65f-d2cd7d22bef2)
+
+
 https://github.com/Bruno2811/Atividade-informatica/blob/main/f%C3%B3rmulas%20e%20dados%20abertos.xlsx
 
 
