@@ -113,7 +113,7 @@ Foi gerado por mim a seguinte tela para visualizar os paises
 
 ## 3.3 DESENVOLVIMENTO POWER BI 1: Power BI fórmulas DAX e KPI
 
-Na ativadade proposta pela professora utilizamos os seguntes dados para realizar um BI com visibilidade das informações. Gerei o seguinte DashBoard:
+Na atividade proposta pela professora, utilizamos os seguintes dados para realizar um BI com visibilidade das informações. Gerei o seguinte dashboard:
 
 ![image](https://github.com/user-attachments/assets/7395b563-2ea1-4cd7-8c39-d558af0458a5)
 
