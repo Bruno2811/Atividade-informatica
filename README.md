@@ -86,7 +86,6 @@ Para desenvolver uma planilha com filtros e formulas, usando as formulas: CONT.S
 
 Informações passadas para a seguinte planilha:
 
-![image](https://github.com/user-attachments/assets/97e62532-2598-4533-abb5-52b36a6a6d51)
 
 
 ![image](https://github.com/user-attachments/assets/46ee60b7-89b2-43a9-b65f-d2cd7d22bef2)
