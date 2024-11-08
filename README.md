@@ -97,8 +97,10 @@ Ativiade proposta pela professora nesse primeiro passo para o desenvolvimento de
 3. fazer o modelo dos dois arquivos no PowerBI, relacionando-os pelo DS_PAIS.
 4. fazer a categorização de dados, se necessário.
 5. gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
-Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. Foi gerado por mim o seguinte arquivo:
-https://github.com/Bruno2811/Atividade-informatica/blob/main/atividade%201%20power%20bi.pbix
+Essas perguntas para indicar no mapa-mundi vinte paises escolhidos pelo aluno. 
+Foi gerado por mim a seguinte tela para visualizar os paises 
+![Uploading image.png…]()
+
 
 ## 3.2
 
