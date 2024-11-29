@@ -133,13 +133,15 @@ no estado de São Paulo.
 
 
 
-## 4- DESENVOLVIMETO DE APLICATIVO GERADO POR IA 
-
-
-## ATIVIDADE PROVA
-
 
 ![image](https://github.com/user-attachments/assets/48e2ad12-2088-4bbe-9158-f5cfcf87b999)
 
 
 https://github.com/Bruno2811/Atividade-informatica/blob/main/Trabalho%20-%20Powe%20BI%20KPI%20(1)%20(1).pbix
+
+
+## 4- DESENVOLVIMETO DE APLICATIVO GERADO POR IA 
+
+
+## ATIVIDADE PROVA
+
