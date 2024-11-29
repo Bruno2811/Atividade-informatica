@@ -147,6 +147,6 @@ https://github.com/Bruno2811/Atividade-informatica/blob/main/Trabalho%20-%20Powe
 
 construir um gráfico que mostre as temperaturas em cada cidade nos meses apresentados na tabela.  Em seguida, postar o arquivo.
 
-Na tabela gerada foram usadas as formulas "MÉDIA" e "MÀXIMO", a tabela ficou assim 
+Na tabela gerada foram usadas as formulas "MÉDIA" e "MÀXIMO", a tabela ficou assim:
 
 ![image](https://github.com/user-attachments/assets/7a3fc3c7-59be-403b-8099-e47fe98dde5a)
