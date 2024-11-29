@@ -140,8 +140,8 @@ no estado de São Paulo.
 https://github.com/Bruno2811/Atividade-informatica/blob/main/Trabalho%20-%20Powe%20BI%20KPI%20(1)%20(1).pbix
 
 
-## 4- DESENVOLVIMETO DE APLICATIVO GERADO POR IA 
+## 4 DESENVOLVIMETO DE APLICATIVO GERADO POR IA 
 
 
-## ATIVIDADE PROVA
+## 5 ATIVIDADE PROVA
 
