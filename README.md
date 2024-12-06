@@ -11,6 +11,10 @@
 
 3.1-3.4 DESENVOLVIMENTO POWER BI
 
+4 DESENVOLVIMETO DE APLICATIVO GERADO POR IA
+
+5 ATIVIDADE/PROVA
+
 
 
 ## 1-Primeira tarefa : apresentação pessoal
@@ -141,6 +145,7 @@ https://github.com/Bruno2811/Atividade-informatica/blob/main/Trabalho%20-%20Powe
 
 
 ## 4 DESENVOLVIMETO DE APLICATIVO GERADO POR IA 
+![image](https://github.com/user-attachments/assets/6cca15dc-c9cb-44d7-8516-eff0c7a579d7)
 
 
 ## 5 ATIVIDADE PROVA
